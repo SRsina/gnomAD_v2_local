@@ -5,4 +5,6 @@ According what has been said in the [previous code](https://github.com/SRsina/gn
 The reason behind is that the version 2 is consist of two part:
 1) exome sequencing (over 125,000 individual)
 2) genome sequencing  (over 23,000 individual
+
+
 but version 3 data are whole genome sequencing which is over 79,000 individual so you can decide to work with which but here we intend to work with version 2 but the lift_over version which is the same data as before but the data is mapped into build_version 38.
